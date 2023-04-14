@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Pacific Ocean World Map: Discovering The Wonders Of The Largest Ocean On Earth	</title>
+	<atom:link href="/stencil-pacific-ocean-world-map-yukon/feed/" rel="self" type="application/rss+xml" />
+	<link>/stencil-pacific-ocean-world-map-yukon/</link>
+	<description>Just another World Map Colored Continents site</description>
+	<lastBuildDate>Thu, 13 Apr 2023 01:46:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.8</generator>
+</channel>
+</rss>
